@@ -10,5 +10,5 @@ Primeiramente a pasta do projeto deve ser baixada e aberta na unity
 
 Em seguida baixe o pacote de assets e na unity vá em Assets > Import Package > Custom Package e abra o pacote de assets
 
-Depois disso abra a Scene SimuladorPaciente para carregar tudo e pronto!
+Depois disso vá em File >Open Scene e seleciona a scene SimuladorPaciente para carregar tudo e pronto!
 
